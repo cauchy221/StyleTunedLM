@@ -1,5 +1,5 @@
 # StyleTunedLM
-The official repository of the paper: Customizing Large Language Model Generation Style using Parameter-Efficient Finetuning [[link](https://aclanthology.org/2024.inlg-main.34/)] [[demo](https://cauchy221.github.io/StyleTunedLM-Demo/)].
+The official repository of the paper: Customizing Large Language Model Generation Style using Parameter-Efficient Finetuning [[paper]](https://aclanthology.org/2024.inlg-main.34/) [[demo]](https://cauchy221.github.io/StyleTunedLM-Demo/).
 
 ## Data
 ### Data Download
